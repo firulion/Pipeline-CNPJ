@@ -1,4 +1,4 @@
-# testeROIT
+# Pipeline CNPJ
 Código referente ao processo seletivo de estágio
 
 No primeiro trecho do código temos a função responsável pela validação do CNPJ.
